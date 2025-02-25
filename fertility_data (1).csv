@@ -1,0 +1,1001 @@
+PersonID,Age,Gender,BMI,Smoking,Alcohol,Exercise,Diet,MedicalCondition,FertilityStatus
+1,24,Male,30.4,Yes,Yes,Occasional,Balanced,PCOS,Normal
+2,37,Male,18.5,Yes,No,None,Low Carb,Thyroid,Infertile
+3,21,Female,28.9,No,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+4,34,Female,31.9,Yes,Yes,Regular,High Sugar,Thyroid,Normal
+5,22,Female,25.9,No,No,None,Balanced,Thyroid,Infertile
+6,36,Male,26.1,No,No,None,Low Carb,Thyroid,Infertile
+7,43,Female,21.7,Yes,No,None,High Sugar,None,Low
+8,23,Male,24.1,Yes,Yes,Occasional,Low Carb,None,Infertile
+9,36,Male,24.1,No,No,Regular,Balanced,Thyroid,Infertile
+10,42,Female,32.6,No,No,Occasional,Low Carb,Thyroid,Infertile
+11,20,Female,29.9,No,Yes,None,Balanced,PCOS,Low
+12,25,Female,30.7,Yes,Yes,Regular,Low Carb,Thyroid,Normal
+13,44,Male,20.6,No,No,None,Balanced,Thyroid,Infertile
+14,26,Female,26.0,No,No,Occasional,Low Carb,PCOS,Normal
+15,39,Male,28.4,No,Yes,Regular,Balanced,Thyroid,Infertile
+16,22,Female,25.7,No,No,Regular,Low Carb,None,Normal
+17,23,Female,32.0,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Low
+18,27,Female,29.0,Yes,No,Regular,Low Carb,Hormonal Imbalance,Normal
+19,37,Female,28.4,Yes,No,Regular,Low Carb,None,Infertile
+20,38,Male,19.3,No,Yes,None,High Sugar,PCOS,Infertile
+21,41,Female,30.6,No,No,None,Low Carb,Thyroid,Low
+22,25,Male,32.0,Yes,Yes,None,High Sugar,Thyroid,Low
+23,43,Female,28.8,No,No,None,High Sugar,None,Normal
+24,28,Female,28.3,No,No,Regular,High Sugar,Diabetes,Normal
+25,42,Female,28.8,No,Yes,Regular,Low Carb,Hormonal Imbalance,Normal
+26,39,Male,24.2,No,Yes,None,Low Carb,PCOS,Normal
+27,25,Male,34.4,Yes,No,None,Balanced,PCOS,Normal
+28,39,Male,20.8,Yes,No,None,Balanced,Hormonal Imbalance,Infertile
+29,37,Female,25.6,Yes,Yes,None,High Sugar,Thyroid,Low
+30,39,Male,34.9,Yes,Yes,Regular,Low Carb,Thyroid,Infertile
+31,41,Female,27.6,Yes,No,None,Balanced,None,Normal
+32,45,Male,19.6,No,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+33,43,Female,20.3,No,No,None,Balanced,Thyroid,Normal
+34,31,Male,21.7,No,No,Occasional,Low Carb,Hormonal Imbalance,Infertile
+35,35,Male,23.3,No,Yes,None,Low Carb,Thyroid,Infertile
+36,33,Female,24.9,Yes,No,None,High Sugar,None,Normal
+37,21,Male,30.3,Yes,Yes,Regular,Low Carb,Diabetes,Low
+38,39,Male,27.0,Yes,Yes,Regular,Low Carb,None,Normal
+39,23,Male,32.2,Yes,No,Occasional,Balanced,PCOS,Infertile
+40,44,Male,32.4,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Low
+41,22,Female,24.6,Yes,Yes,Occasional,Balanced,PCOS,Normal
+42,41,Male,20.7,No,Yes,Regular,High Sugar,Diabetes,Infertile
+43,22,Male,31.4,Yes,No,None,Low Carb,Thyroid,Infertile
+44,34,Female,28.2,Yes,No,Occasional,Low Carb,Thyroid,Normal
+45,25,Female,23.6,No,No,None,Balanced,PCOS,Low
+46,22,Female,34.1,No,No,Occasional,Low Carb,Thyroid,Low
+47,25,Female,26.2,No,Yes,Occasional,Low Carb,Diabetes,Infertile
+48,44,Male,29.1,No,Yes,Occasional,High Sugar,None,Normal
+49,29,Male,24.1,No,No,Regular,High Sugar,None,Low
+50,31,Male,19.2,Yes,Yes,None,Balanced,PCOS,Normal
+51,26,Female,31.4,No,No,None,Balanced,Hormonal Imbalance,Normal
+52,30,Male,20.4,Yes,No,Occasional,Balanced,Thyroid,Infertile
+53,30,Female,27.2,No,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+54,26,Female,27.1,Yes,Yes,Occasional,Low Carb,Thyroid,Infertile
+55,24,Female,26.5,No,Yes,Occasional,High Sugar,PCOS,Infertile
+56,30,Female,21.7,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Infertile
+57,34,Male,31.1,Yes,No,Regular,Balanced,Hormonal Imbalance,Infertile
+58,20,Male,32.3,No,Yes,Regular,Low Carb,Thyroid,Low
+59,25,Male,29.4,No,Yes,Regular,Balanced,PCOS,Normal
+60,37,Male,34.4,No,Yes,Occasional,High Sugar,Thyroid,Normal
+61,43,Female,22.7,No,No,Regular,High Sugar,Diabetes,Low
+62,38,Male,30.5,No,No,Occasional,Balanced,None,Infertile
+63,25,Female,20.6,Yes,No,Occasional,Low Carb,PCOS,Normal
+64,28,Female,20.4,No,Yes,Occasional,High Sugar,Hormonal Imbalance,Low
+65,23,Male,32.6,No,Yes,Regular,Low Carb,Thyroid,Normal
+66,43,Female,29.6,No,Yes,Regular,Balanced,Thyroid,Normal
+67,27,Male,23.5,Yes,No,None,Balanced,None,Infertile
+68,26,Female,28.6,Yes,No,Regular,Low Carb,Diabetes,Low
+69,23,Female,28.4,No,No,None,Low Carb,Hormonal Imbalance,Infertile
+70,32,Female,26.8,Yes,Yes,None,Low Carb,Diabetes,Normal
+71,40,Female,27.4,No,Yes,None,High Sugar,None,Infertile
+72,22,Female,33.0,Yes,Yes,Occasional,High Sugar,Thyroid,Infertile
+73,29,Male,34.0,Yes,Yes,Occasional,Balanced,None,Normal
+74,37,Male,29.0,Yes,No,Occasional,Balanced,None,Normal
+75,31,Male,32.8,No,No,Occasional,Balanced,Diabetes,Normal
+76,34,Male,26.1,Yes,No,Regular,Balanced,Thyroid,Infertile
+77,31,Male,31.1,No,No,Regular,Balanced,Thyroid,Low
+78,39,Male,22.9,Yes,Yes,None,Low Carb,Thyroid,Normal
+79,23,Female,20.1,No,Yes,Regular,Balanced,None,Low
+80,42,Male,30.8,No,No,Occasional,Balanced,None,Normal
+81,24,Male,19.7,Yes,No,Occasional,Balanced,None,Low
+82,31,Female,31.8,No,No,Occasional,High Sugar,Hormonal Imbalance,Infertile
+83,37,Female,33.5,No,No,None,Balanced,Diabetes,Infertile
+84,26,Female,32.1,No,Yes,None,Balanced,Diabetes,Infertile
+85,38,Female,22.8,Yes,No,None,High Sugar,Hormonal Imbalance,Infertile
+86,29,Male,28.0,No,Yes,Occasional,High Sugar,Thyroid,Infertile
+87,33,Male,27.0,Yes,No,None,High Sugar,PCOS,Low
+88,30,Female,32.5,No,Yes,Regular,Low Carb,Diabetes,Infertile
+89,45,Female,21.3,No,No,None,Balanced,PCOS,Low
+90,28,Male,30.6,No,Yes,Occasional,Low Carb,None,Normal
+91,34,Male,26.2,Yes,No,Occasional,Low Carb,Diabetes,Low
+92,27,Female,32.1,Yes,Yes,None,Low Carb,Diabetes,Infertile
+93,23,Male,27.5,Yes,No,None,High Sugar,Thyroid,Low
+94,22,Female,33.4,No,Yes,None,Balanced,Diabetes,Low
+95,43,Female,27.4,Yes,No,None,Balanced,PCOS,Infertile
+96,39,Female,20.4,Yes,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+97,43,Female,31.3,Yes,Yes,Occasional,Balanced,Diabetes,Low
+98,37,Male,24.8,Yes,Yes,Occasional,Balanced,Thyroid,Low
+99,31,Female,29.9,No,Yes,None,Balanced,Diabetes,Low
+100,26,Female,19.5,No,Yes,Occasional,Balanced,None,Normal
+101,27,Female,27.8,No,No,Regular,Balanced,Hormonal Imbalance,Infertile
+102,32,Male,26.4,Yes,Yes,Occasional,Low Carb,Diabetes,Low
+103,38,Male,22.7,No,Yes,Occasional,Low Carb,None,Low
+104,32,Male,29.0,Yes,No,Regular,Low Carb,PCOS,Low
+105,25,Male,18.6,Yes,No,None,Balanced,Thyroid,Infertile
+106,32,Female,28.2,Yes,No,Occasional,Low Carb,PCOS,Infertile
+107,37,Male,18.5,Yes,Yes,Occasional,Low Carb,Thyroid,Normal
+108,43,Female,27.9,No,Yes,Regular,High Sugar,Diabetes,Low
+109,33,Female,32.9,Yes,No,Regular,Low Carb,PCOS,Normal
+110,25,Male,20.3,No,Yes,Occasional,High Sugar,Hormonal Imbalance,Infertile
+111,25,Male,20.6,Yes,No,Occasional,Balanced,PCOS,Low
+112,34,Female,24.0,Yes,No,Regular,High Sugar,None,Normal
+113,27,Male,30.3,No,Yes,None,Balanced,PCOS,Normal
+114,20,Male,32.1,No,Yes,Occasional,Balanced,PCOS,Normal
+115,28,Female,28.0,No,No,None,High Sugar,None,Normal
+116,44,Male,27.3,No,Yes,Occasional,Low Carb,PCOS,Infertile
+117,31,Male,33.5,No,Yes,Regular,Low Carb,Hormonal Imbalance,Normal
+118,36,Male,21.5,Yes,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+119,29,Female,29.9,Yes,No,Occasional,High Sugar,PCOS,Low
+120,21,Female,29.4,Yes,No,None,High Sugar,Diabetes,Normal
+121,30,Male,26.6,No,Yes,Regular,Balanced,None,Normal
+122,38,Female,18.7,No,Yes,None,High Sugar,Hormonal Imbalance,Infertile
+123,38,Male,31.4,No,Yes,Occasional,Balanced,PCOS,Normal
+124,35,Female,31.0,Yes,Yes,Occasional,High Sugar,PCOS,Low
+125,24,Female,28.5,Yes,Yes,None,High Sugar,Diabetes,Normal
+126,36,Female,27.8,No,Yes,None,High Sugar,None,Low
+127,36,Female,20.9,Yes,No,None,High Sugar,None,Normal
+128,35,Male,34.5,No,No,None,Balanced,Diabetes,Low
+129,43,Female,20.5,Yes,Yes,Regular,Balanced,PCOS,Infertile
+130,39,Male,31.4,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+131,26,Male,29.0,Yes,No,Occasional,High Sugar,None,Infertile
+132,23,Female,27.1,Yes,No,None,Balanced,None,Normal
+133,27,Female,22.2,Yes,No,None,Low Carb,Diabetes,Normal
+134,43,Female,22.3,No,Yes,Occasional,High Sugar,PCOS,Infertile
+135,41,Male,20.4,No,Yes,None,High Sugar,Diabetes,Normal
+136,37,Female,23.8,No,No,Occasional,High Sugar,PCOS,Normal
+137,32,Male,27.9,Yes,No,Occasional,High Sugar,Diabetes,Infertile
+138,31,Male,28.3,No,No,Occasional,High Sugar,None,Normal
+139,39,Female,34.1,Yes,No,Occasional,High Sugar,Diabetes,Normal
+140,21,Female,33.3,No,No,Occasional,Low Carb,Hormonal Imbalance,Low
+141,20,Female,27.6,Yes,Yes,Regular,Low Carb,Hormonal Imbalance,Infertile
+142,25,Male,20.6,Yes,No,None,Low Carb,None,Normal
+143,23,Female,23.3,Yes,Yes,None,Low Carb,None,Normal
+144,29,Male,18.8,Yes,No,Occasional,High Sugar,Thyroid,Normal
+145,25,Male,28.0,Yes,No,Regular,Balanced,None,Normal
+146,42,Male,30.7,Yes,No,Regular,Balanced,Thyroid,Infertile
+147,25,Female,30.9,No,No,Occasional,Low Carb,PCOS,Infertile
+148,43,Female,20.4,Yes,Yes,Regular,Balanced,PCOS,Infertile
+149,22,Male,25.1,No,No,None,Low Carb,Hormonal Imbalance,Normal
+150,40,Male,20.5,Yes,Yes,Regular,Low Carb,None,Low
+151,24,Male,33.1,Yes,No,Occasional,High Sugar,None,Low
+152,26,Male,29.5,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Normal
+153,23,Male,34.2,No,No,Occasional,Balanced,None,Normal
+154,38,Male,21.5,Yes,No,None,Balanced,Thyroid,Low
+155,25,Female,29.3,Yes,Yes,Occasional,High Sugar,Diabetes,Infertile
+156,45,Male,26.5,No,Yes,Regular,High Sugar,Thyroid,Infertile
+157,35,Male,23.7,Yes,No,Regular,High Sugar,Thyroid,Low
+158,26,Female,28.4,No,Yes,None,High Sugar,Hormonal Imbalance,Normal
+159,35,Female,26.4,No,Yes,None,Balanced,Hormonal Imbalance,Infertile
+160,24,Female,29.1,No,No,Occasional,Balanced,PCOS,Infertile
+161,40,Male,18.8,No,Yes,Regular,Balanced,Hormonal Imbalance,Normal
+162,43,Female,23.7,No,No,Occasional,Low Carb,None,Infertile
+163,44,Female,27.8,Yes,No,Occasional,Balanced,Thyroid,Low
+164,42,Male,34.9,No,Yes,Regular,Balanced,Diabetes,Low
+165,43,Female,29.9,Yes,Yes,None,High Sugar,Diabetes,Low
+166,22,Male,34.1,No,No,Occasional,Balanced,None,Normal
+167,21,Female,20.1,No,Yes,None,Balanced,Diabetes,Normal
+168,21,Female,20.0,No,No,None,Balanced,PCOS,Low
+169,43,Female,33.8,No,No,None,Low Carb,Thyroid,Low
+170,35,Female,23.1,Yes,No,Occasional,Low Carb,Diabetes,Low
+171,29,Male,19.2,Yes,No,Occasional,Low Carb,Thyroid,Infertile
+172,29,Female,28.4,Yes,No,Occasional,High Sugar,None,Low
+173,26,Female,23.8,Yes,No,Occasional,High Sugar,PCOS,Infertile
+174,26,Male,24.2,No,No,Regular,Low Carb,Hormonal Imbalance,Low
+175,33,Female,23.6,No,Yes,None,High Sugar,Hormonal Imbalance,Normal
+176,27,Male,29.8,Yes,Yes,Occasional,High Sugar,None,Infertile
+177,31,Male,24.1,Yes,Yes,Occasional,High Sugar,PCOS,Low
+178,37,Male,20.9,Yes,No,Occasional,High Sugar,PCOS,Low
+179,36,Male,23.5,Yes,No,None,Low Carb,Diabetes,Low
+180,37,Female,32.1,Yes,No,Occasional,High Sugar,PCOS,Infertile
+181,29,Female,24.8,No,No,Occasional,High Sugar,Thyroid,Low
+182,41,Female,31.8,Yes,No,Regular,High Sugar,Hormonal Imbalance,Low
+183,42,Male,34.3,No,Yes,Regular,Low Carb,Diabetes,Low
+184,24,Female,27.7,Yes,Yes,Occasional,Balanced,PCOS,Low
+185,37,Male,32.6,No,Yes,Occasional,High Sugar,Hormonal Imbalance,Infertile
+186,40,Male,22.0,Yes,No,Regular,Low Carb,Thyroid,Low
+187,36,Female,19.8,Yes,No,None,High Sugar,Diabetes,Infertile
+188,42,Male,26.8,No,Yes,Regular,High Sugar,PCOS,Normal
+189,34,Female,26.9,No,No,Occasional,High Sugar,PCOS,Low
+190,36,Female,20.7,Yes,Yes,Regular,Balanced,Diabetes,Low
+191,23,Female,23.7,No,Yes,Regular,High Sugar,Thyroid,Normal
+192,26,Female,21.7,Yes,No,Regular,Low Carb,None,Normal
+193,45,Female,33.4,No,No,None,Low Carb,Thyroid,Low
+194,37,Female,31.0,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Low
+195,26,Female,25.7,No,Yes,None,High Sugar,Thyroid,Normal
+196,41,Female,21.1,No,No,None,Low Carb,PCOS,Normal
+197,38,Female,30.4,No,Yes,Occasional,Low Carb,PCOS,Low
+198,43,Female,24.6,No,Yes,Occasional,Balanced,Hormonal Imbalance,Infertile
+199,33,Female,21.3,No,No,Occasional,High Sugar,Diabetes,Normal
+200,20,Male,24.1,No,Yes,Regular,Balanced,Diabetes,Infertile
+201,44,Female,26.1,No,No,None,High Sugar,None,Infertile
+202,22,Male,34.0,Yes,No,None,Low Carb,Hormonal Imbalance,Normal
+203,35,Male,28.6,No,Yes,Occasional,High Sugar,Diabetes,Low
+204,45,Female,26.4,Yes,No,None,High Sugar,None,Infertile
+205,39,Female,34.1,Yes,Yes,Regular,Balanced,Diabetes,Low
+206,27,Male,22.9,Yes,Yes,Regular,Low Carb,None,Infertile
+207,31,Male,33.3,Yes,No,Regular,Low Carb,PCOS,Infertile
+208,44,Male,25.5,Yes,No,None,High Sugar,PCOS,Normal
+209,23,Female,24.4,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+210,36,Male,31.1,Yes,No,None,Balanced,Hormonal Imbalance,Infertile
+211,39,Male,24.5,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Low
+212,33,Male,30.5,No,No,Regular,Low Carb,Thyroid,Infertile
+213,39,Female,24.2,Yes,No,None,High Sugar,None,Low
+214,23,Male,22.6,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Infertile
+215,20,Female,22.2,Yes,No,Regular,Balanced,Diabetes,Normal
+216,21,Male,30.2,No,No,None,High Sugar,Thyroid,Normal
+217,37,Male,23.3,No,No,Occasional,Balanced,Thyroid,Infertile
+218,41,Female,29.9,No,No,Occasional,Low Carb,Thyroid,Normal
+219,40,Female,22.9,No,No,Occasional,High Sugar,Hormonal Imbalance,Normal
+220,44,Female,35.0,No,No,None,Balanced,Hormonal Imbalance,Infertile
+221,43,Male,24.7,No,No,None,High Sugar,Hormonal Imbalance,Low
+222,42,Female,24.1,Yes,Yes,Occasional,Low Carb,None,Normal
+223,27,Male,28.8,Yes,Yes,None,Balanced,PCOS,Infertile
+224,28,Female,27.5,Yes,Yes,Occasional,Balanced,Diabetes,Low
+225,45,Female,19.5,Yes,Yes,Occasional,Balanced,PCOS,Normal
+226,30,Male,25.0,Yes,No,None,Balanced,PCOS,Low
+227,25,Female,30.6,Yes,Yes,None,High Sugar,Hormonal Imbalance,Infertile
+228,45,Female,22.6,No,Yes,Regular,Low Carb,Diabetes,Low
+229,45,Male,22.8,Yes,No,None,Low Carb,Hormonal Imbalance,Normal
+230,35,Female,22.3,No,Yes,None,Low Carb,PCOS,Infertile
+231,45,Male,26.7,Yes,No,Occasional,Balanced,Hormonal Imbalance,Infertile
+232,24,Male,26.5,Yes,Yes,None,High Sugar,PCOS,Low
+233,22,Female,20.2,No,No,None,Balanced,Hormonal Imbalance,Low
+234,44,Female,24.7,Yes,No,Occasional,High Sugar,Thyroid,Normal
+235,33,Male,24.5,Yes,Yes,None,Balanced,Hormonal Imbalance,Infertile
+236,27,Female,27.4,No,Yes,Regular,Balanced,Thyroid,Low
+237,28,Female,27.2,No,Yes,Occasional,Balanced,Diabetes,Low
+238,36,Male,33.0,Yes,Yes,Regular,High Sugar,Thyroid,Low
+239,35,Male,21.3,No,No,Occasional,High Sugar,Diabetes,Normal
+240,27,Female,23.1,No,No,Occasional,Low Carb,Thyroid,Low
+241,44,Male,30.5,Yes,No,None,High Sugar,Thyroid,Low
+242,25,Male,32.8,No,No,None,High Sugar,Hormonal Imbalance,Normal
+243,32,Female,20.7,No,No,None,Low Carb,Diabetes,Normal
+244,29,Male,30.3,Yes,Yes,None,Balanced,Diabetes,Normal
+245,34,Male,23.8,No,No,Occasional,High Sugar,PCOS,Infertile
+246,23,Male,21.9,Yes,Yes,Occasional,Balanced,PCOS,Infertile
+247,40,Male,31.1,Yes,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+248,32,Male,27.1,Yes,No,Occasional,High Sugar,Thyroid,Low
+249,24,Female,33.4,No,No,Regular,Balanced,None,Normal
+250,29,Male,26.8,Yes,Yes,None,High Sugar,Hormonal Imbalance,Low
+251,45,Male,21.3,Yes,Yes,Occasional,Low Carb,None,Low
+252,36,Female,23.8,Yes,No,None,Low Carb,PCOS,Infertile
+253,32,Female,30.3,No,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+254,26,Male,21.1,Yes,Yes,Occasional,High Sugar,PCOS,Normal
+255,27,Male,28.6,No,No,None,Low Carb,None,Infertile
+256,43,Female,19.9,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Normal
+257,34,Female,18.6,No,Yes,Occasional,Low Carb,Diabetes,Normal
+258,39,Female,27.3,Yes,Yes,None,Balanced,Diabetes,Low
+259,25,Male,32.3,Yes,No,Occasional,Low Carb,PCOS,Low
+260,21,Male,27.8,No,No,Occasional,Low Carb,None,Normal
+261,27,Male,30.8,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Infertile
+262,22,Female,32.6,Yes,No,None,Low Carb,Hormonal Imbalance,Low
+263,33,Male,33.4,Yes,No,Occasional,High Sugar,None,Low
+264,26,Male,30.9,Yes,No,None,High Sugar,None,Low
+265,35,Female,24.9,No,Yes,Regular,Balanced,None,Low
+266,21,Female,29.7,No,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+267,45,Female,21.7,Yes,No,Regular,High Sugar,None,Infertile
+268,20,Male,26.8,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Low
+269,20,Male,21.8,No,Yes,Regular,Low Carb,None,Low
+270,20,Male,28.5,Yes,Yes,Regular,High Sugar,Diabetes,Infertile
+271,39,Male,27.5,No,No,Occasional,High Sugar,PCOS,Normal
+272,38,Female,25.6,No,Yes,Occasional,High Sugar,PCOS,Low
+273,26,Female,33.2,Yes,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+274,21,Male,22.1,Yes,Yes,Regular,High Sugar,Thyroid,Infertile
+275,34,Male,19.6,No,No,Regular,Balanced,Hormonal Imbalance,Normal
+276,41,Female,33.3,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Infertile
+277,26,Female,20.1,No,No,None,Balanced,Diabetes,Normal
+278,20,Female,26.7,No,Yes,Occasional,Balanced,Diabetes,Low
+279,39,Male,32.2,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Low
+280,27,Female,19.1,No,No,Regular,Low Carb,Thyroid,Normal
+281,20,Male,27.2,Yes,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+282,28,Male,25.3,No,No,Occasional,Low Carb,None,Normal
+283,26,Male,27.2,Yes,No,Occasional,High Sugar,None,Normal
+284,25,Male,28.7,Yes,Yes,Regular,High Sugar,None,Normal
+285,24,Male,27.5,No,No,None,Low Carb,Thyroid,Normal
+286,31,Female,34.6,No,Yes,Regular,Low Carb,Diabetes,Normal
+287,35,Male,21.5,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Low
+288,30,Female,32.6,Yes,Yes,Regular,Low Carb,Diabetes,Infertile
+289,23,Female,34.4,Yes,No,Regular,Balanced,Hormonal Imbalance,Infertile
+290,39,Male,27.1,No,No,Occasional,High Sugar,Hormonal Imbalance,Infertile
+291,23,Male,31.5,No,Yes,Regular,Balanced,Diabetes,Normal
+292,25,Female,21.6,Yes,Yes,Occasional,Balanced,PCOS,Infertile
+293,35,Female,32.6,Yes,Yes,Occasional,Low Carb,Thyroid,Infertile
+294,36,Male,24.7,No,Yes,Regular,Low Carb,None,Normal
+295,37,Male,29.5,Yes,Yes,Occasional,Low Carb,None,Normal
+296,42,Male,22.7,Yes,Yes,None,High Sugar,Thyroid,Low
+297,43,Male,29.3,No,No,Occasional,Balanced,Thyroid,Infertile
+298,36,Male,19.2,Yes,No,Occasional,High Sugar,PCOS,Low
+299,43,Male,29.9,Yes,Yes,Occasional,High Sugar,PCOS,Infertile
+300,26,Male,31.8,Yes,No,Occasional,Balanced,Thyroid,Low
+301,45,Female,23.2,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Low
+302,36,Female,34.8,Yes,No,None,High Sugar,Thyroid,Normal
+303,45,Male,25.8,Yes,Yes,Regular,Balanced,PCOS,Low
+304,23,Male,21.9,No,Yes,Occasional,High Sugar,Thyroid,Low
+305,36,Female,33.6,No,No,Occasional,Low Carb,None,Normal
+306,20,Male,23.1,No,No,Regular,Low Carb,None,Low
+307,39,Female,34.3,Yes,Yes,Regular,High Sugar,Diabetes,Infertile
+308,37,Female,18.8,Yes,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+309,22,Male,34.9,No,Yes,Regular,Low Carb,Thyroid,Infertile
+310,39,Female,21.4,Yes,Yes,Occasional,Low Carb,Diabetes,Normal
+311,23,Male,22.7,No,No,Occasional,High Sugar,Thyroid,Infertile
+312,34,Male,23.5,No,Yes,Occasional,High Sugar,PCOS,Infertile
+313,36,Female,33.1,No,Yes,Occasional,Balanced,None,Low
+314,44,Male,23.5,Yes,No,None,High Sugar,Hormonal Imbalance,Normal
+315,32,Female,33.3,Yes,No,None,Low Carb,Hormonal Imbalance,Infertile
+316,27,Female,34.4,Yes,Yes,Occasional,Low Carb,Thyroid,Infertile
+317,40,Female,21.1,No,Yes,None,Balanced,None,Infertile
+318,41,Female,27.3,No,Yes,Occasional,Low Carb,Diabetes,Infertile
+319,40,Female,23.1,No,Yes,None,High Sugar,Thyroid,Normal
+320,28,Female,26.0,Yes,No,Occasional,Balanced,Diabetes,Infertile
+321,35,Male,27.4,Yes,No,Regular,High Sugar,Diabetes,Infertile
+322,37,Male,31.5,No,No,None,Balanced,Diabetes,Normal
+323,22,Female,21.1,No,Yes,Occasional,Balanced,None,Normal
+324,40,Male,27.7,No,No,None,Low Carb,Diabetes,Normal
+325,45,Male,29.0,Yes,No,Regular,Low Carb,Thyroid,Normal
+326,27,Male,30.5,Yes,No,Regular,Balanced,Hormonal Imbalance,Normal
+327,34,Female,27.6,Yes,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+328,24,Female,25.7,Yes,No,None,Low Carb,None,Low
+329,29,Male,33.2,Yes,Yes,None,Balanced,Diabetes,Low
+330,34,Male,29.8,No,Yes,Regular,Balanced,Hormonal Imbalance,Normal
+331,45,Female,23.2,No,No,Regular,Low Carb,Hormonal Imbalance,Normal
+332,37,Male,25.1,No,No,Regular,Low Carb,None,Low
+333,33,Male,28.0,Yes,No,Occasional,Low Carb,Thyroid,Normal
+334,25,Female,25.1,Yes,Yes,Regular,Low Carb,Thyroid,Low
+335,43,Male,24.5,Yes,Yes,Regular,Balanced,Diabetes,Low
+336,33,Female,32.4,Yes,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+337,37,Female,31.6,Yes,Yes,None,Low Carb,None,Normal
+338,24,Female,21.1,Yes,No,None,Balanced,PCOS,Low
+339,27,Female,26.2,No,Yes,Regular,High Sugar,Diabetes,Low
+340,20,Female,28.1,Yes,No,Regular,High Sugar,Thyroid,Normal
+341,29,Female,31.5,Yes,No,None,Balanced,None,Normal
+342,26,Female,24.4,No,No,None,Balanced,None,Infertile
+343,40,Female,31.6,Yes,Yes,Occasional,High Sugar,Thyroid,Low
+344,35,Male,24.4,No,No,Occasional,Balanced,None,Normal
+345,40,Female,32.9,No,Yes,Occasional,Low Carb,Diabetes,Normal
+346,33,Female,22.5,No,No,Regular,High Sugar,Hormonal Imbalance,Infertile
+347,45,Male,18.9,No,No,None,Low Carb,Hormonal Imbalance,Low
+348,45,Male,21.1,Yes,Yes,None,High Sugar,None,Normal
+349,20,Male,30.8,No,Yes,None,Low Carb,PCOS,Normal
+350,28,Female,25.2,Yes,No,Regular,High Sugar,None,Normal
+351,25,Male,23.2,No,Yes,None,High Sugar,Thyroid,Infertile
+352,30,Male,26.4,No,No,Regular,High Sugar,Thyroid,Infertile
+353,30,Male,34.8,Yes,No,Occasional,Low Carb,PCOS,Low
+354,25,Male,31.5,Yes,No,Occasional,Balanced,Hormonal Imbalance,Low
+355,35,Male,32.6,Yes,Yes,None,Balanced,Hormonal Imbalance,Infertile
+356,38,Male,32.8,No,Yes,Occasional,High Sugar,Thyroid,Low
+357,38,Male,25.6,No,Yes,None,Low Carb,Hormonal Imbalance,Low
+358,27,Male,31.2,No,No,None,High Sugar,None,Normal
+359,26,Male,19.4,No,Yes,None,High Sugar,None,Infertile
+360,24,Female,22.2,Yes,Yes,None,High Sugar,Hormonal Imbalance,Normal
+361,30,Male,25.5,Yes,Yes,Occasional,Low Carb,Thyroid,Infertile
+362,28,Female,33.8,No,Yes,Regular,High Sugar,Diabetes,Low
+363,24,Female,23.8,No,No,Regular,Low Carb,Hormonal Imbalance,Low
+364,24,Female,33.7,No,Yes,None,High Sugar,Thyroid,Infertile
+365,43,Male,26.0,No,No,Occasional,High Sugar,Thyroid,Normal
+366,27,Female,32.9,Yes,No,None,High Sugar,Hormonal Imbalance,Low
+367,22,Male,27.8,Yes,Yes,None,Low Carb,Hormonal Imbalance,Normal
+368,32,Female,25.2,Yes,Yes,Occasional,Balanced,None,Normal
+369,41,Female,20.9,No,No,None,Low Carb,PCOS,Normal
+370,44,Male,20.2,No,No,Regular,Low Carb,Diabetes,Low
+371,30,Male,28.6,Yes,Yes,Regular,Balanced,Diabetes,Normal
+372,34,Female,24.4,Yes,Yes,Regular,High Sugar,PCOS,Infertile
+373,25,Male,23.2,No,No,Occasional,Low Carb,PCOS,Infertile
+374,32,Female,24.8,No,No,Regular,High Sugar,Diabetes,Low
+375,25,Female,27.5,No,Yes,Occasional,Balanced,None,Infertile
+376,35,Male,33.8,Yes,Yes,Regular,Low Carb,None,Low
+377,25,Female,28.7,Yes,Yes,None,High Sugar,PCOS,Infertile
+378,42,Female,29.1,No,No,Occasional,High Sugar,Thyroid,Normal
+379,33,Female,22.6,No,Yes,Occasional,Balanced,Hormonal Imbalance,Infertile
+380,25,Male,26.8,No,No,None,High Sugar,Diabetes,Normal
+381,34,Female,30.0,No,Yes,None,Low Carb,Hormonal Imbalance,Low
+382,34,Female,28.3,No,No,Occasional,High Sugar,Diabetes,Infertile
+383,25,Female,30.1,No,Yes,Occasional,Low Carb,Thyroid,Infertile
+384,26,Male,28.5,Yes,Yes,None,Low Carb,Hormonal Imbalance,Low
+385,31,Male,30.5,Yes,No,Regular,Low Carb,Diabetes,Infertile
+386,39,Female,24.2,No,Yes,Regular,Balanced,Diabetes,Infertile
+387,29,Female,31.4,Yes,Yes,None,High Sugar,None,Infertile
+388,29,Female,30.6,No,Yes,None,Balanced,PCOS,Infertile
+389,27,Female,19.2,Yes,No,None,Balanced,Thyroid,Infertile
+390,43,Female,29.9,No,Yes,None,Balanced,Hormonal Imbalance,Infertile
+391,29,Female,22.0,No,No,Regular,Low Carb,PCOS,Infertile
+392,36,Female,33.9,Yes,Yes,Occasional,Balanced,Thyroid,Low
+393,39,Male,25.8,Yes,Yes,Occasional,Low Carb,None,Normal
+394,38,Male,24.6,No,No,Occasional,Low Carb,Thyroid,Infertile
+395,25,Female,31.1,No,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+396,20,Male,27.9,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Low
+397,32,Female,26.1,Yes,No,None,Balanced,Diabetes,Infertile
+398,42,Male,31.3,No,No,Occasional,Low Carb,PCOS,Low
+399,22,Female,23.2,Yes,Yes,Regular,High Sugar,Diabetes,Infertile
+400,31,Female,22.2,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Low
+401,35,Female,28.8,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Infertile
+402,32,Female,20.0,No,No,None,Balanced,PCOS,Low
+403,27,Female,19.9,No,No,Occasional,Low Carb,None,Normal
+404,33,Female,30.7,No,Yes,Occasional,Balanced,Thyroid,Infertile
+405,36,Female,34.0,No,No,Regular,High Sugar,Hormonal Imbalance,Low
+406,25,Male,26.7,Yes,Yes,Occasional,Balanced,Diabetes,Infertile
+407,30,Female,34.7,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Low
+408,26,Male,27.7,No,Yes,Regular,Low Carb,None,Infertile
+409,35,Female,18.6,No,No,None,High Sugar,Hormonal Imbalance,Normal
+410,45,Male,23.6,Yes,No,Regular,High Sugar,Hormonal Imbalance,Infertile
+411,45,Female,33.1,Yes,No,Regular,Balanced,Thyroid,Low
+412,43,Male,24.3,No,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+413,31,Male,21.9,No,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+414,34,Male,19.1,Yes,No,Regular,High Sugar,PCOS,Low
+415,33,Male,33.9,No,No,None,Balanced,Thyroid,Low
+416,37,Male,20.7,Yes,No,Regular,High Sugar,PCOS,Infertile
+417,34,Female,24.0,Yes,Yes,Regular,Balanced,None,Normal
+418,31,Male,32.3,Yes,Yes,Occasional,Balanced,Thyroid,Low
+419,37,Male,29.6,Yes,Yes,Occasional,High Sugar,Thyroid,Normal
+420,37,Male,24.1,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Infertile
+421,38,Female,23.5,No,Yes,Regular,Balanced,Thyroid,Infertile
+422,27,Female,22.2,No,Yes,None,Low Carb,PCOS,Infertile
+423,27,Male,27.4,Yes,Yes,None,Balanced,Thyroid,Low
+424,29,Male,19.4,Yes,Yes,None,High Sugar,PCOS,Infertile
+425,25,Female,25.9,Yes,No,None,Balanced,Diabetes,Normal
+426,41,Female,23.6,No,No,Regular,High Sugar,Hormonal Imbalance,Infertile
+427,36,Female,21.5,Yes,Yes,None,High Sugar,Thyroid,Low
+428,34,Female,22.3,No,Yes,Regular,Balanced,None,Normal
+429,36,Female,28.3,Yes,Yes,Occasional,Low Carb,Diabetes,Low
+430,35,Male,34.5,Yes,Yes,Regular,Low Carb,Thyroid,Low
+431,39,Male,28.0,Yes,No,Regular,Balanced,Thyroid,Low
+432,33,Male,33.7,No,Yes,None,High Sugar,Diabetes,Infertile
+433,24,Female,28.0,Yes,Yes,None,High Sugar,Diabetes,Low
+434,41,Male,29.2,No,No,Regular,High Sugar,PCOS,Low
+435,38,Female,19.6,Yes,Yes,Regular,Low Carb,None,Low
+436,25,Female,30.8,Yes,Yes,Occasional,Low Carb,Thyroid,Low
+437,33,Female,24.0,No,Yes,None,Balanced,Diabetes,Normal
+438,22,Male,31.4,No,No,Regular,Low Carb,Thyroid,Normal
+439,20,Female,31.3,No,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+440,32,Female,32.1,No,No,Occasional,Low Carb,Hormonal Imbalance,Low
+441,22,Male,29.7,No,No,Regular,Low Carb,PCOS,Low
+442,36,Female,21.3,Yes,Yes,Regular,High Sugar,Thyroid,Low
+443,20,Male,25.9,No,No,Occasional,Low Carb,None,Normal
+444,38,Female,31.8,Yes,Yes,None,Low Carb,PCOS,Infertile
+445,42,Female,22.4,No,No,Regular,Balanced,PCOS,Infertile
+446,43,Female,32.0,Yes,Yes,Regular,Low Carb,PCOS,Low
+447,43,Male,22.8,No,No,Occasional,Balanced,Hormonal Imbalance,Infertile
+448,24,Male,33.8,No,No,None,Balanced,Hormonal Imbalance,Normal
+449,26,Female,24.0,Yes,No,Occasional,High Sugar,PCOS,Normal
+450,37,Male,34.8,No,Yes,Occasional,Low Carb,Hormonal Imbalance,Infertile
+451,41,Male,28.8,No,No,Occasional,High Sugar,Diabetes,Normal
+452,40,Female,26.0,Yes,No,None,Balanced,Thyroid,Normal
+453,21,Female,20.6,No,No,Regular,Low Carb,None,Infertile
+454,43,Female,29.2,No,No,None,High Sugar,None,Infertile
+455,35,Female,24.2,No,Yes,Occasional,Low Carb,Hormonal Imbalance,Infertile
+456,30,Female,31.9,Yes,No,Occasional,Balanced,Hormonal Imbalance,Infertile
+457,21,Male,19.1,Yes,Yes,None,Balanced,None,Normal
+458,29,Female,33.8,Yes,No,None,Balanced,PCOS,Infertile
+459,20,Female,23.8,No,No,None,Balanced,Hormonal Imbalance,Normal
+460,24,Male,21.1,No,No,Occasional,Balanced,None,Infertile
+461,21,Male,26.3,No,Yes,Occasional,Balanced,None,Normal
+462,35,Female,29.0,Yes,No,Occasional,Balanced,Thyroid,Normal
+463,35,Male,33.0,No,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+464,26,Female,22.7,No,Yes,Regular,High Sugar,Hormonal Imbalance,Low
+465,31,Female,25.3,No,Yes,None,Balanced,None,Normal
+466,35,Male,19.7,Yes,No,None,Low Carb,PCOS,Infertile
+467,38,Female,32.9,Yes,No,None,Low Carb,None,Low
+468,27,Male,30.5,No,No,Regular,Balanced,Hormonal Imbalance,Infertile
+469,36,Female,28.3,No,No,Regular,Low Carb,Diabetes,Infertile
+470,29,Female,23.5,No,No,Occasional,Low Carb,Thyroid,Low
+471,21,Male,23.5,No,Yes,Regular,Low Carb,None,Normal
+472,36,Male,23.0,No,Yes,None,High Sugar,Hormonal Imbalance,Low
+473,27,Female,28.9,No,Yes,None,Low Carb,Diabetes,Infertile
+474,23,Male,32.9,No,No,Occasional,Balanced,Thyroid,Low
+475,30,Male,28.7,No,No,Occasional,High Sugar,None,Infertile
+476,20,Male,32.5,No,No,Regular,Low Carb,None,Low
+477,38,Female,24.6,Yes,Yes,Regular,High Sugar,Hormonal Imbalance,Infertile
+478,32,Female,27.4,No,No,Occasional,Low Carb,PCOS,Normal
+479,44,Female,28.5,Yes,No,Occasional,Balanced,None,Infertile
+480,24,Male,25.0,No,No,Occasional,High Sugar,PCOS,Normal
+481,42,Female,27.7,No,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+482,27,Male,30.5,No,Yes,Occasional,Low Carb,PCOS,Normal
+483,39,Male,31.0,Yes,Yes,None,Balanced,Diabetes,Infertile
+484,40,Female,27.0,Yes,No,Occasional,High Sugar,None,Low
+485,28,Female,28.1,Yes,Yes,Occasional,Low Carb,Hormonal Imbalance,Low
+486,33,Male,24.3,Yes,Yes,Occasional,Low Carb,None,Infertile
+487,20,Male,32.1,No,No,None,Low Carb,Thyroid,Infertile
+488,38,Female,26.2,Yes,No,None,Balanced,None,Infertile
+489,45,Female,22.2,No,No,None,High Sugar,Thyroid,Infertile
+490,31,Male,29.3,No,Yes,Occasional,Balanced,Thyroid,Infertile
+491,40,Female,29.3,Yes,No,Occasional,Low Carb,None,Low
+492,32,Female,25.9,No,No,Regular,High Sugar,PCOS,Normal
+493,27,Female,24.8,No,Yes,Regular,High Sugar,Diabetes,Normal
+494,44,Male,29.0,Yes,No,None,Low Carb,None,Normal
+495,37,Female,22.8,Yes,Yes,Occasional,High Sugar,Diabetes,Normal
+496,38,Female,24.1,No,Yes,None,Balanced,None,Low
+497,30,Female,30.4,No,No,Regular,Balanced,Diabetes,Normal
+498,40,Male,22.9,Yes,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+499,29,Male,20.4,No,No,None,High Sugar,Thyroid,Infertile
+500,29,Male,23.9,No,Yes,Regular,Balanced,Hormonal Imbalance,Low
+501,44,Female,22.8,Yes,No,Occasional,Balanced,PCOS,Low
+502,33,Male,27.3,Yes,No,Regular,Balanced,Hormonal Imbalance,Infertile
+503,41,Female,29.6,Yes,Yes,Regular,High Sugar,Hormonal Imbalance,Normal
+504,23,Female,30.6,Yes,Yes,Regular,Low Carb,None,Normal
+505,43,Male,20.6,Yes,No,None,Balanced,PCOS,Infertile
+506,38,Male,29.0,No,Yes,None,High Sugar,Diabetes,Infertile
+507,41,Female,18.5,No,No,Regular,Balanced,Thyroid,Infertile
+508,30,Male,32.8,Yes,Yes,Occasional,Balanced,Thyroid,Low
+509,45,Female,26.9,No,Yes,Regular,Low Carb,Diabetes,Low
+510,36,Female,20.1,No,Yes,Regular,Balanced,PCOS,Low
+511,25,Female,29.1,Yes,Yes,None,Low Carb,Diabetes,Normal
+512,31,Female,35.0,Yes,No,Regular,Low Carb,None,Low
+513,27,Male,31.2,No,Yes,None,Low Carb,Hormonal Imbalance,Normal
+514,34,Female,30.3,Yes,No,Regular,Balanced,Diabetes,Normal
+515,44,Male,29.8,Yes,Yes,Occasional,High Sugar,None,Low
+516,34,Female,29.1,Yes,No,Regular,High Sugar,PCOS,Normal
+517,25,Female,22.6,No,No,Occasional,Low Carb,PCOS,Low
+518,38,Female,19.1,No,Yes,None,Balanced,Diabetes,Low
+519,40,Male,26.7,No,Yes,Regular,Balanced,None,Low
+520,38,Female,31.0,Yes,No,Regular,Low Carb,Thyroid,Infertile
+521,25,Male,30.6,Yes,Yes,Regular,Low Carb,Thyroid,Normal
+522,41,Male,21.2,No,No,Regular,Low Carb,Diabetes,Low
+523,26,Female,26.2,No,Yes,None,Low Carb,Thyroid,Normal
+524,44,Female,30.1,Yes,Yes,Regular,Low Carb,Diabetes,Normal
+525,24,Female,32.3,No,No,Occasional,High Sugar,Thyroid,Infertile
+526,39,Male,25.6,No,Yes,Regular,Balanced,None,Normal
+527,25,Female,32.7,No,Yes,Regular,Balanced,Thyroid,Infertile
+528,28,Male,29.4,No,Yes,None,Low Carb,Thyroid,Normal
+529,28,Male,23.3,Yes,No,Occasional,Balanced,Thyroid,Normal
+530,39,Male,22.6,Yes,Yes,Regular,Balanced,PCOS,Normal
+531,32,Female,28.7,Yes,No,None,Low Carb,None,Normal
+532,33,Female,29.9,No,Yes,None,Low Carb,Diabetes,Infertile
+533,37,Male,20.0,Yes,No,None,High Sugar,Thyroid,Low
+534,43,Female,32.8,No,No,Regular,High Sugar,None,Infertile
+535,35,Female,30.8,No,No,Regular,Low Carb,PCOS,Infertile
+536,41,Male,24.8,Yes,Yes,Occasional,Balanced,None,Infertile
+537,29,Female,27.5,No,Yes,Occasional,Low Carb,Diabetes,Normal
+538,32,Female,26.6,Yes,Yes,None,High Sugar,Diabetes,Normal
+539,39,Male,30.6,Yes,Yes,Regular,Balanced,Thyroid,Normal
+540,20,Male,32.9,No,Yes,Occasional,Low Carb,Thyroid,Low
+541,35,Male,26.5,Yes,Yes,None,Balanced,Thyroid,Normal
+542,28,Female,26.6,No,Yes,None,Balanced,None,Low
+543,41,Male,32.0,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Normal
+544,42,Female,34.9,No,Yes,None,High Sugar,PCOS,Normal
+545,30,Female,18.9,Yes,No,Occasional,High Sugar,PCOS,Infertile
+546,42,Female,28.1,No,No,None,High Sugar,None,Infertile
+547,39,Male,30.8,Yes,No,Occasional,Balanced,None,Infertile
+548,20,Female,27.9,No,No,Occasional,High Sugar,Diabetes,Infertile
+549,26,Female,24.1,Yes,No,Regular,High Sugar,None,Infertile
+550,40,Female,25.3,No,No,None,Balanced,Diabetes,Infertile
+551,42,Male,32.5,No,Yes,Occasional,Low Carb,PCOS,Infertile
+552,21,Male,19.1,No,Yes,Regular,Low Carb,Thyroid,Normal
+553,36,Male,25.4,No,Yes,Regular,Balanced,PCOS,Low
+554,32,Female,21.5,Yes,No,None,Balanced,PCOS,Infertile
+555,26,Male,31.1,No,Yes,None,High Sugar,Thyroid,Normal
+556,22,Female,30.2,Yes,No,None,Low Carb,Thyroid,Infertile
+557,40,Male,26.8,No,No,None,Balanced,Thyroid,Low
+558,31,Female,23.4,Yes,No,Regular,Low Carb,Hormonal Imbalance,Normal
+559,41,Female,25.9,No,No,Occasional,High Sugar,Hormonal Imbalance,Low
+560,36,Male,28.2,No,Yes,Occasional,High Sugar,PCOS,Low
+561,31,Male,20.9,No,No,Regular,Balanced,Thyroid,Infertile
+562,45,Male,34.1,No,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+563,38,Male,34.3,Yes,Yes,None,High Sugar,PCOS,Low
+564,30,Male,21.0,Yes,No,Occasional,High Sugar,Thyroid,Normal
+565,41,Female,22.1,No,Yes,None,Low Carb,PCOS,Infertile
+566,30,Female,33.4,No,Yes,Regular,Balanced,Hormonal Imbalance,Normal
+567,21,Male,27.4,Yes,No,Regular,High Sugar,Diabetes,Low
+568,25,Male,20.3,Yes,Yes,Regular,Low Carb,Thyroid,Normal
+569,42,Male,32.0,No,No,None,Balanced,PCOS,Normal
+570,39,Male,28.8,Yes,No,Regular,Low Carb,Hormonal Imbalance,Normal
+571,21,Female,19.5,No,Yes,Occasional,High Sugar,Thyroid,Low
+572,21,Female,26.9,Yes,No,Occasional,Low Carb,Diabetes,Low
+573,30,Female,24.4,No,No,Regular,High Sugar,Thyroid,Infertile
+574,38,Male,21.1,Yes,No,Regular,Low Carb,None,Infertile
+575,40,Male,24.2,No,Yes,None,High Sugar,None,Low
+576,43,Male,29.1,Yes,No,Regular,High Sugar,None,Infertile
+577,34,Female,22.3,No,No,Occasional,Balanced,Thyroid,Normal
+578,28,Female,18.8,No,Yes,None,Balanced,PCOS,Normal
+579,25,Male,32.7,No,Yes,Regular,Balanced,Thyroid,Low
+580,26,Male,33.1,Yes,Yes,Regular,Low Carb,Hormonal Imbalance,Normal
+581,24,Male,26.0,No,Yes,Regular,Balanced,Thyroid,Infertile
+582,37,Male,26.1,Yes,Yes,Regular,Low Carb,Thyroid,Low
+583,23,Male,22.5,No,No,Regular,Low Carb,Thyroid,Low
+584,36,Male,21.5,No,No,Regular,Low Carb,PCOS,Normal
+585,43,Male,22.1,No,No,None,High Sugar,Thyroid,Infertile
+586,43,Female,27.1,Yes,Yes,Regular,Balanced,PCOS,Normal
+587,34,Male,28.7,No,No,Occasional,Balanced,None,Infertile
+588,40,Female,24.8,No,No,Occasional,Low Carb,Thyroid,Low
+589,25,Male,19.9,No,No,None,Low Carb,Diabetes,Normal
+590,37,Male,28.3,Yes,No,Regular,Balanced,Diabetes,Low
+591,44,Male,27.5,Yes,Yes,Occasional,Low Carb,PCOS,Normal
+592,37,Female,27.5,No,No,Occasional,High Sugar,Diabetes,Low
+593,23,Female,20.1,No,Yes,None,Low Carb,Hormonal Imbalance,Low
+594,29,Male,34.7,No,No,None,Low Carb,PCOS,Infertile
+595,44,Female,26.2,Yes,No,None,Balanced,Hormonal Imbalance,Low
+596,41,Male,22.6,Yes,Yes,Regular,Low Carb,Thyroid,Normal
+597,35,Male,22.2,Yes,No,Regular,Low Carb,Diabetes,Low
+598,27,Female,32.3,Yes,No,Occasional,Balanced,Diabetes,Low
+599,44,Female,24.5,No,Yes,Regular,Low Carb,PCOS,Infertile
+600,38,Female,19.6,Yes,No,None,Low Carb,Hormonal Imbalance,Infertile
+601,44,Female,30.8,Yes,Yes,None,High Sugar,None,Normal
+602,26,Male,30.0,Yes,Yes,None,Balanced,Thyroid,Normal
+603,40,Female,33.6,Yes,Yes,None,Balanced,None,Low
+604,44,Female,18.7,No,No,Regular,High Sugar,Hormonal Imbalance,Normal
+605,21,Female,33.6,No,No,Regular,High Sugar,Diabetes,Low
+606,34,Female,22.6,No,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+607,26,Female,24.1,Yes,Yes,Regular,High Sugar,Hormonal Imbalance,Low
+608,43,Male,32.6,No,Yes,None,Balanced,PCOS,Infertile
+609,36,Male,18.9,Yes,Yes,Regular,Low Carb,PCOS,Low
+610,31,Female,20.0,Yes,Yes,Occasional,High Sugar,Diabetes,Normal
+611,34,Female,27.1,Yes,No,None,High Sugar,Thyroid,Normal
+612,33,Male,26.6,No,No,Regular,Low Carb,PCOS,Normal
+613,31,Female,23.0,Yes,Yes,Occasional,Low Carb,None,Infertile
+614,42,Female,22.3,Yes,No,None,Balanced,Hormonal Imbalance,Normal
+615,32,Female,33.0,Yes,No,Occasional,High Sugar,Hormonal Imbalance,Low
+616,20,Female,19.3,No,No,Regular,High Sugar,Diabetes,Normal
+617,20,Female,19.2,No,Yes,Occasional,Balanced,Thyroid,Normal
+618,37,Male,22.7,No,Yes,None,High Sugar,None,Infertile
+619,20,Female,34.6,Yes,No,Regular,Low Carb,None,Infertile
+620,39,Female,23.9,No,No,Occasional,High Sugar,Thyroid,Infertile
+621,29,Male,32.6,Yes,Yes,Occasional,Low Carb,Diabetes,Low
+622,34,Female,29.0,No,Yes,None,Low Carb,None,Infertile
+623,24,Male,25.0,Yes,No,Occasional,Balanced,Diabetes,Normal
+624,30,Female,19.4,No,No,Regular,High Sugar,Diabetes,Normal
+625,37,Male,28.2,No,No,Regular,Low Carb,Hormonal Imbalance,Normal
+626,45,Male,20.0,Yes,No,Occasional,Low Carb,Diabetes,Infertile
+627,32,Male,30.4,No,Yes,Regular,Balanced,Diabetes,Low
+628,37,Male,22.9,No,Yes,Regular,High Sugar,None,Infertile
+629,40,Male,22.0,Yes,Yes,Regular,Low Carb,Diabetes,Low
+630,33,Male,23.8,Yes,Yes,Occasional,Balanced,Hormonal Imbalance,Infertile
+631,22,Female,28.5,Yes,Yes,Occasional,High Sugar,Thyroid,Infertile
+632,43,Male,21.2,No,No,Occasional,High Sugar,Hormonal Imbalance,Low
+633,31,Female,29.8,Yes,No,Occasional,Low Carb,PCOS,Normal
+634,34,Female,30.3,No,No,Regular,Low Carb,None,Normal
+635,28,Male,30.8,No,Yes,None,High Sugar,None,Normal
+636,34,Female,26.4,Yes,No,None,Balanced,Diabetes,Normal
+637,24,Female,24.0,Yes,Yes,Regular,Low Carb,Diabetes,Low
+638,34,Male,30.0,Yes,No,Regular,High Sugar,None,Infertile
+639,33,Female,27.4,Yes,Yes,Regular,Balanced,Diabetes,Low
+640,45,Male,21.5,No,No,Regular,High Sugar,None,Infertile
+641,43,Male,31.2,No,No,None,Low Carb,PCOS,Low
+642,45,Male,28.7,Yes,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+643,28,Male,22.3,No,No,Regular,High Sugar,Thyroid,Low
+644,39,Male,34.3,No,Yes,Regular,Balanced,PCOS,Normal
+645,41,Female,31.4,Yes,Yes,Regular,Balanced,PCOS,Low
+646,20,Male,19.0,No,No,Occasional,Balanced,Thyroid,Infertile
+647,20,Female,25.4,Yes,No,Regular,Balanced,Hormonal Imbalance,Normal
+648,39,Male,31.7,Yes,Yes,Regular,High Sugar,None,Normal
+649,34,Female,28.5,No,No,Occasional,Balanced,Hormonal Imbalance,Low
+650,41,Female,26.2,Yes,Yes,Regular,Balanced,None,Low
+651,42,Female,27.6,No,No,None,Balanced,Thyroid,Infertile
+652,22,Male,32.6,No,Yes,None,Low Carb,None,Normal
+653,22,Male,19.5,Yes,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+654,42,Female,30.9,No,No,Occasional,High Sugar,Diabetes,Normal
+655,36,Female,18.7,No,No,Regular,Balanced,Diabetes,Infertile
+656,27,Female,34.8,No,Yes,Regular,High Sugar,Thyroid,Normal
+657,20,Female,29.5,Yes,No,Regular,Low Carb,Diabetes,Low
+658,34,Female,21.4,Yes,Yes,None,High Sugar,Hormonal Imbalance,Infertile
+659,37,Female,22.3,Yes,No,None,Low Carb,Diabetes,Low
+660,20,Male,21.3,Yes,No,None,Balanced,None,Infertile
+661,25,Female,29.7,No,No,Regular,High Sugar,Diabetes,Infertile
+662,33,Female,30.2,Yes,No,Occasional,Balanced,Diabetes,Low
+663,24,Male,32.7,Yes,No,None,High Sugar,Diabetes,Infertile
+664,33,Male,32.8,Yes,Yes,None,Low Carb,Diabetes,Infertile
+665,22,Female,31.8,No,Yes,Occasional,Balanced,Hormonal Imbalance,Normal
+666,43,Female,32.4,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Infertile
+667,32,Female,21.4,Yes,Yes,Regular,High Sugar,None,Infertile
+668,20,Female,30.1,No,Yes,Regular,High Sugar,PCOS,Infertile
+669,22,Male,24.2,Yes,Yes,None,Balanced,Diabetes,Normal
+670,20,Female,27.5,No,Yes,Regular,Balanced,None,Low
+671,40,Female,26.6,No,No,Regular,Low Carb,Thyroid,Infertile
+672,26,Male,33.3,Yes,Yes,None,Low Carb,None,Normal
+673,31,Female,20.4,No,Yes,None,Balanced,None,Infertile
+674,33,Male,30.7,Yes,No,Occasional,Low Carb,PCOS,Low
+675,45,Female,25.0,Yes,Yes,None,High Sugar,None,Low
+676,27,Male,26.1,Yes,No,None,Balanced,None,Low
+677,33,Female,30.0,No,No,Regular,Low Carb,Hormonal Imbalance,Infertile
+678,26,Female,22.6,Yes,No,None,Balanced,PCOS,Normal
+679,39,Male,18.5,No,Yes,None,Low Carb,Diabetes,Low
+680,22,Male,25.1,Yes,Yes,Occasional,Balanced,PCOS,Normal
+681,34,Male,24.6,Yes,Yes,Occasional,Balanced,Diabetes,Infertile
+682,20,Male,32.3,Yes,Yes,Regular,Balanced,Thyroid,Infertile
+683,43,Male,25.2,No,No,Occasional,Low Carb,Diabetes,Low
+684,23,Male,24.7,No,Yes,Occasional,Balanced,PCOS,Low
+685,24,Female,22.7,Yes,No,Regular,Balanced,Hormonal Imbalance,Infertile
+686,35,Female,26.1,No,No,Occasional,High Sugar,Thyroid,Infertile
+687,42,Male,30.5,No,Yes,Regular,High Sugar,Thyroid,Normal
+688,23,Female,32.6,Yes,Yes,Regular,Low Carb,None,Normal
+689,38,Male,34.4,No,Yes,Occasional,High Sugar,Hormonal Imbalance,Normal
+690,27,Female,29.9,Yes,Yes,None,Low Carb,Diabetes,Infertile
+691,35,Male,26.7,Yes,No,Regular,Low Carb,Thyroid,Low
+692,35,Female,28.0,No,No,Regular,Balanced,Hormonal Imbalance,Infertile
+693,24,Female,29.5,No,No,None,High Sugar,PCOS,Infertile
+694,26,Female,19.1,Yes,No,Occasional,High Sugar,Hormonal Imbalance,Low
+695,37,Male,32.3,No,No,Regular,High Sugar,PCOS,Low
+696,42,Male,22.2,No,Yes,Occasional,Low Carb,Hormonal Imbalance,Normal
+697,32,Female,26.8,Yes,Yes,Regular,Low Carb,Thyroid,Infertile
+698,38,Female,19.6,Yes,No,None,Low Carb,None,Normal
+699,34,Female,30.3,Yes,No,Occasional,Balanced,Diabetes,Normal
+700,30,Female,32.8,Yes,No,Regular,Balanced,PCOS,Normal
+701,22,Female,22.1,Yes,No,Occasional,Low Carb,None,Low
+702,32,Female,21.7,Yes,Yes,Occasional,Low Carb,None,Low
+703,40,Male,20.3,Yes,Yes,Regular,Balanced,PCOS,Low
+704,38,Female,23.4,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Normal
+705,44,Male,26.4,No,No,None,High Sugar,Hormonal Imbalance,Normal
+706,29,Female,34.9,No,Yes,Regular,High Sugar,Hormonal Imbalance,Infertile
+707,33,Female,29.2,Yes,Yes,Regular,High Sugar,Diabetes,Normal
+708,30,Female,31.3,Yes,No,Occasional,Balanced,Thyroid,Infertile
+709,33,Male,32.3,No,No,Occasional,Low Carb,None,Low
+710,35,Female,20.1,No,Yes,Regular,Low Carb,Hormonal Imbalance,Normal
+711,29,Female,21.9,Yes,Yes,Occasional,High Sugar,Thyroid,Low
+712,20,Female,19.6,No,No,None,Balanced,Thyroid,Infertile
+713,21,Male,28.1,No,No,None,Low Carb,Diabetes,Low
+714,32,Female,28.6,Yes,No,None,High Sugar,None,Low
+715,34,Male,29.0,No,Yes,Occasional,Balanced,PCOS,Low
+716,37,Female,29.6,No,Yes,Regular,High Sugar,None,Low
+717,22,Male,25.8,No,Yes,None,Balanced,None,Infertile
+718,39,Female,28.2,Yes,No,Occasional,Balanced,Hormonal Imbalance,Normal
+719,24,Male,25.2,Yes,Yes,Occasional,Balanced,PCOS,Low
+720,24,Male,33.9,Yes,Yes,Occasional,High Sugar,None,Low
+721,43,Female,34.9,Yes,Yes,Regular,Balanced,Diabetes,Infertile
+722,26,Female,19.4,No,No,Regular,Low Carb,PCOS,Low
+723,34,Male,21.5,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+724,22,Male,28.1,Yes,Yes,Occasional,High Sugar,None,Infertile
+725,30,Female,24.7,Yes,Yes,None,High Sugar,Hormonal Imbalance,Normal
+726,31,Male,18.8,Yes,Yes,Regular,High Sugar,Hormonal Imbalance,Infertile
+727,34,Female,33.8,No,No,Regular,Balanced,Hormonal Imbalance,Low
+728,43,Female,32.6,Yes,No,None,High Sugar,PCOS,Normal
+729,35,Female,33.4,No,No,Occasional,Low Carb,Diabetes,Low
+730,26,Female,34.3,Yes,No,Regular,Balanced,Diabetes,Normal
+731,22,Female,32.8,No,No,Regular,High Sugar,None,Infertile
+732,32,Male,33.4,Yes,Yes,Occasional,High Sugar,None,Normal
+733,20,Male,18.9,Yes,Yes,None,Balanced,Hormonal Imbalance,Infertile
+734,38,Female,30.8,No,No,Occasional,Low Carb,PCOS,Normal
+735,37,Female,22.1,No,No,None,High Sugar,Thyroid,Normal
+736,39,Female,29.1,Yes,Yes,Occasional,High Sugar,Thyroid,Infertile
+737,23,Female,34.1,Yes,No,Regular,Low Carb,None,Infertile
+738,43,Male,26.5,Yes,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+739,37,Male,30.8,No,No,Occasional,Low Carb,None,Infertile
+740,30,Female,21.1,No,No,Regular,Balanced,None,Normal
+741,34,Male,33.1,Yes,Yes,Occasional,Balanced,Thyroid,Infertile
+742,35,Female,24.7,Yes,No,Occasional,High Sugar,None,Normal
+743,41,Female,30.1,No,Yes,None,Balanced,Thyroid,Infertile
+744,21,Male,29.8,No,No,Regular,Balanced,Hormonal Imbalance,Low
+745,30,Male,28.3,No,Yes,Occasional,Low Carb,Hormonal Imbalance,Low
+746,41,Female,21.4,Yes,No,None,Balanced,PCOS,Infertile
+747,23,Female,30.6,No,No,Occasional,Low Carb,None,Normal
+748,36,Female,26.1,Yes,No,Regular,Low Carb,Thyroid,Infertile
+749,43,Female,33.0,No,Yes,None,High Sugar,None,Infertile
+750,35,Male,24.7,No,Yes,None,Low Carb,None,Low
+751,32,Male,25.4,No,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+752,28,Female,30.8,Yes,Yes,Regular,High Sugar,None,Normal
+753,31,Female,29.4,No,Yes,None,Low Carb,PCOS,Normal
+754,38,Female,21.0,No,Yes,Regular,Low Carb,Diabetes,Normal
+755,33,Female,28.3,Yes,Yes,Regular,Low Carb,Thyroid,Infertile
+756,27,Female,33.1,Yes,Yes,Occasional,High Sugar,Diabetes,Infertile
+757,30,Male,25.8,No,Yes,Occasional,High Sugar,None,Infertile
+758,43,Female,22.2,No,Yes,Occasional,Balanced,Diabetes,Infertile
+759,44,Female,28.9,No,Yes,None,Balanced,Diabetes,Low
+760,37,Female,24.4,Yes,No,Occasional,Balanced,PCOS,Normal
+761,23,Male,21.5,No,No,Occasional,High Sugar,None,Infertile
+762,32,Male,25.5,Yes,Yes,None,High Sugar,PCOS,Infertile
+763,36,Male,27.1,Yes,No,Occasional,Balanced,Hormonal Imbalance,Normal
+764,41,Male,31.5,No,Yes,None,High Sugar,Hormonal Imbalance,Infertile
+765,34,Male,22.6,No,No,None,High Sugar,None,Low
+766,32,Male,21.1,Yes,No,Regular,High Sugar,Diabetes,Normal
+767,25,Male,24.2,No,Yes,None,High Sugar,Hormonal Imbalance,Normal
+768,45,Female,32.6,No,Yes,Regular,High Sugar,Diabetes,Normal
+769,22,Female,27.7,No,Yes,Regular,Low Carb,PCOS,Infertile
+770,45,Male,31.3,No,No,Regular,High Sugar,Diabetes,Low
+771,24,Male,19.2,No,Yes,Occasional,High Sugar,None,Low
+772,42,Male,26.6,No,No,Occasional,High Sugar,Diabetes,Infertile
+773,35,Male,30.3,No,No,Occasional,Balanced,None,Low
+774,27,Female,28.9,Yes,No,Occasional,Balanced,Hormonal Imbalance,Low
+775,43,Male,19.1,No,Yes,Regular,High Sugar,Thyroid,Low
+776,21,Male,30.5,Yes,No,None,High Sugar,Diabetes,Infertile
+777,28,Male,29.9,No,Yes,Regular,Balanced,PCOS,Normal
+778,39,Male,26.5,Yes,Yes,Occasional,High Sugar,Thyroid,Low
+779,36,Female,27.7,Yes,Yes,None,High Sugar,Thyroid,Low
+780,42,Female,22.6,Yes,Yes,Occasional,High Sugar,None,Low
+781,20,Female,33.3,No,No,Regular,High Sugar,None,Normal
+782,25,Male,24.4,No,Yes,Regular,Low Carb,None,Normal
+783,45,Female,31.9,Yes,No,None,Low Carb,Thyroid,Normal
+784,36,Female,29.8,No,Yes,Regular,Low Carb,Hormonal Imbalance,Infertile
+785,35,Male,20.3,Yes,No,None,High Sugar,Thyroid,Infertile
+786,39,Female,31.1,No,Yes,Regular,Low Carb,PCOS,Low
+787,45,Male,33.8,Yes,No,Regular,High Sugar,Diabetes,Low
+788,38,Male,28.3,Yes,No,Occasional,High Sugar,Thyroid,Normal
+789,25,Male,31.3,Yes,Yes,None,Balanced,Diabetes,Infertile
+790,24,Female,23.5,Yes,Yes,None,Low Carb,PCOS,Normal
+791,37,Male,30.2,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Infertile
+792,22,Female,29.7,No,Yes,None,Low Carb,None,Infertile
+793,42,Female,32.2,No,No,Regular,High Sugar,Thyroid,Infertile
+794,29,Female,19.8,No,Yes,None,Balanced,Thyroid,Infertile
+795,26,Female,30.1,Yes,No,Regular,High Sugar,Diabetes,Infertile
+796,31,Male,32.7,No,Yes,None,Low Carb,Diabetes,Normal
+797,25,Male,23.0,No,No,Regular,Balanced,PCOS,Low
+798,35,Female,23.1,No,Yes,Occasional,High Sugar,PCOS,Low
+799,38,Male,24.4,Yes,No,None,Low Carb,PCOS,Infertile
+800,28,Female,32.8,No,No,Occasional,High Sugar,Diabetes,Low
+801,42,Male,24.5,Yes,No,None,Balanced,PCOS,Infertile
+802,27,Male,26.9,No,No,None,High Sugar,Hormonal Imbalance,Normal
+803,25,Female,19.7,Yes,Yes,Occasional,High Sugar,None,Infertile
+804,23,Male,33.2,Yes,Yes,Occasional,Balanced,None,Low
+805,41,Female,30.4,Yes,Yes,Regular,Balanced,Thyroid,Infertile
+806,20,Female,28.2,Yes,No,Regular,Low Carb,PCOS,Low
+807,28,Male,33.8,Yes,No,None,Low Carb,Diabetes,Normal
+808,30,Female,25.8,No,No,None,High Sugar,Thyroid,Low
+809,33,Male,34.7,Yes,Yes,None,Low Carb,PCOS,Normal
+810,31,Male,26.7,No,Yes,Occasional,Low Carb,Thyroid,Normal
+811,42,Female,18.9,No,Yes,Regular,High Sugar,Diabetes,Low
+812,44,Female,22.2,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Infertile
+813,20,Male,20.9,No,No,Occasional,High Sugar,Hormonal Imbalance,Infertile
+814,25,Male,25.7,No,Yes,Regular,Low Carb,None,Infertile
+815,32,Male,32.9,Yes,Yes,Occasional,High Sugar,PCOS,Low
+816,37,Male,20.1,No,Yes,None,Low Carb,Thyroid,Infertile
+817,32,Female,21.4,Yes,Yes,None,Low Carb,Hormonal Imbalance,Low
+818,44,Male,32.8,No,Yes,Occasional,Low Carb,PCOS,Infertile
+819,22,Female,30.2,Yes,No,None,Low Carb,Hormonal Imbalance,Infertile
+820,38,Male,26.8,Yes,No,Occasional,Balanced,PCOS,Normal
+821,20,Female,33.2,Yes,Yes,None,Balanced,Hormonal Imbalance,Low
+822,41,Male,34.1,No,Yes,None,High Sugar,Thyroid,Low
+823,28,Male,19.7,No,No,Regular,High Sugar,None,Low
+824,21,Female,21.2,Yes,Yes,Regular,High Sugar,PCOS,Low
+825,38,Female,24.1,No,No,None,Low Carb,None,Low
+826,20,Male,26.3,Yes,No,Occasional,High Sugar,Diabetes,Infertile
+827,45,Male,21.5,No,Yes,Regular,High Sugar,Diabetes,Infertile
+828,39,Male,28.5,No,Yes,None,Low Carb,PCOS,Low
+829,44,Male,28.7,No,Yes,Regular,Low Carb,Diabetes,Low
+830,42,Male,24.3,Yes,Yes,Regular,High Sugar,Thyroid,Low
+831,35,Male,33.2,No,No,None,Low Carb,Diabetes,Normal
+832,33,Male,20.8,Yes,Yes,Regular,Balanced,Hormonal Imbalance,Low
+833,28,Female,24.6,No,Yes,Occasional,Balanced,Diabetes,Infertile
+834,32,Male,21.9,No,No,Regular,Low Carb,Thyroid,Low
+835,42,Female,19.3,Yes,No,Occasional,Balanced,Hormonal Imbalance,Infertile
+836,27,Male,29.8,No,Yes,None,High Sugar,Hormonal Imbalance,Normal
+837,20,Female,31.1,Yes,Yes,Regular,Balanced,Diabetes,Low
+838,35,Female,28.5,No,Yes,None,Balanced,Thyroid,Low
+839,29,Male,34.1,No,No,Regular,Balanced,Diabetes,Infertile
+840,40,Female,20.3,No,No,Regular,Low Carb,Hormonal Imbalance,Normal
+841,38,Female,23.6,No,No,Regular,Low Carb,None,Normal
+842,45,Male,33.6,No,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+843,41,Female,18.8,Yes,No,Regular,Balanced,PCOS,Low
+844,34,Male,33.9,Yes,Yes,None,Low Carb,Diabetes,Low
+845,27,Male,28.8,No,Yes,Occasional,High Sugar,Diabetes,Infertile
+846,30,Male,28.9,Yes,No,Regular,Balanced,Diabetes,Infertile
+847,40,Female,23.5,No,No,Occasional,High Sugar,None,Infertile
+848,35,Male,20.3,Yes,Yes,Occasional,High Sugar,Diabetes,Infertile
+849,23,Female,34.9,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Low
+850,23,Male,26.3,Yes,No,None,Balanced,PCOS,Low
+851,22,Female,20.6,Yes,Yes,Occasional,Balanced,Thyroid,Infertile
+852,23,Female,29.1,No,No,None,Balanced,Hormonal Imbalance,Normal
+853,33,Male,20.9,Yes,No,Occasional,Balanced,Thyroid,Infertile
+854,20,Female,29.5,Yes,No,None,Balanced,Thyroid,Infertile
+855,24,Male,25.7,Yes,No,Occasional,High Sugar,Thyroid,Infertile
+856,43,Male,26.1,Yes,No,Occasional,Balanced,Diabetes,Normal
+857,35,Female,34.3,Yes,No,Regular,High Sugar,Hormonal Imbalance,Low
+858,30,Female,33.3,Yes,No,None,High Sugar,PCOS,Infertile
+859,44,Female,20.5,No,No,Occasional,High Sugar,Hormonal Imbalance,Infertile
+860,28,Female,34.7,Yes,No,Regular,Balanced,Hormonal Imbalance,Normal
+861,32,Female,20.8,No,No,None,Balanced,None,Low
+862,27,Male,23.9,Yes,Yes,Occasional,Balanced,PCOS,Normal
+863,38,Male,24.3,Yes,No,None,High Sugar,PCOS,Normal
+864,23,Female,29.3,No,Yes,Regular,High Sugar,Thyroid,Normal
+865,40,Male,33.4,Yes,Yes,Regular,High Sugar,Thyroid,Infertile
+866,36,Female,24.0,Yes,Yes,None,Low Carb,Hormonal Imbalance,Low
+867,41,Male,26.3,Yes,No,Regular,Balanced,PCOS,Normal
+868,35,Male,30.3,Yes,No,Occasional,Balanced,Thyroid,Low
+869,25,Female,24.7,No,No,Regular,Low Carb,Thyroid,Infertile
+870,31,Male,32.4,Yes,No,Regular,High Sugar,None,Infertile
+871,31,Female,33.8,No,Yes,None,Balanced,Thyroid,Low
+872,30,Female,34.8,Yes,No,Regular,Low Carb,Diabetes,Infertile
+873,27,Male,29.4,Yes,Yes,None,Low Carb,Diabetes,Normal
+874,26,Female,28.1,No,Yes,Regular,Low Carb,None,Normal
+875,43,Male,22.6,Yes,Yes,Occasional,Low Carb,Diabetes,Low
+876,29,Female,22.3,No,Yes,Regular,Balanced,None,Normal
+877,20,Female,18.7,Yes,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+878,36,Male,32.8,No,Yes,Occasional,High Sugar,PCOS,Low
+879,31,Female,27.9,Yes,No,Regular,Balanced,PCOS,Low
+880,24,Female,28.8,No,Yes,Regular,High Sugar,Diabetes,Normal
+881,25,Male,31.7,Yes,No,Occasional,High Sugar,None,Normal
+882,20,Male,19.3,Yes,Yes,Occasional,High Sugar,Diabetes,Normal
+883,28,Male,22.0,Yes,Yes,None,Low Carb,None,Normal
+884,32,Male,34.8,No,Yes,Regular,Low Carb,PCOS,Low
+885,45,Male,31.7,Yes,No,Regular,Low Carb,Thyroid,Low
+886,28,Female,25.3,No,Yes,Regular,Balanced,PCOS,Low
+887,43,Female,31.7,Yes,Yes,None,High Sugar,Thyroid,Low
+888,34,Female,29.2,Yes,No,None,High Sugar,Hormonal Imbalance,Normal
+889,41,Male,28.9,No,Yes,Occasional,Balanced,Thyroid,Infertile
+890,20,Female,32.5,No,No,None,Balanced,PCOS,Normal
+891,45,Female,30.1,Yes,Yes,Regular,High Sugar,Diabetes,Normal
+892,28,Female,34.7,No,No,Occasional,Balanced,Thyroid,Infertile
+893,36,Female,32.1,No,No,None,High Sugar,Diabetes,Normal
+894,35,Male,31.6,Yes,No,Regular,Low Carb,Thyroid,Infertile
+895,43,Female,28.2,Yes,No,None,High Sugar,Hormonal Imbalance,Infertile
+896,39,Male,21.0,No,Yes,Occasional,Low Carb,Diabetes,Normal
+897,36,Male,32.2,Yes,No,Regular,High Sugar,PCOS,Normal
+898,23,Female,26.0,No,No,None,Balanced,PCOS,Low
+899,35,Male,31.6,Yes,No,Regular,Balanced,Thyroid,Low
+900,38,Male,23.4,Yes,No,Occasional,Balanced,Thyroid,Low
+901,24,Male,28.7,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+902,35,Male,25.4,Yes,Yes,None,Balanced,Diabetes,Infertile
+903,23,Male,34.4,No,No,None,Balanced,Thyroid,Low
+904,24,Male,28.8,No,No,None,Balanced,None,Infertile
+905,27,Male,28.2,No,Yes,Occasional,High Sugar,Hormonal Imbalance,Low
+906,21,Female,24.2,Yes,Yes,Occasional,High Sugar,Hormonal Imbalance,Infertile
+907,31,Male,26.1,No,Yes,Regular,High Sugar,PCOS,Normal
+908,44,Male,25.8,No,Yes,None,High Sugar,Thyroid,Infertile
+909,34,Male,26.2,Yes,No,Regular,Low Carb,Diabetes,Infertile
+910,29,Male,28.2,Yes,Yes,None,Low Carb,Hormonal Imbalance,Infertile
+911,22,Male,19.2,Yes,Yes,Occasional,High Sugar,Diabetes,Low
+912,27,Female,23.9,Yes,No,Regular,Low Carb,Thyroid,Low
+913,27,Male,21.0,No,No,Occasional,Balanced,Diabetes,Normal
+914,35,Male,23.4,Yes,Yes,None,Low Carb,PCOS,Normal
+915,42,Male,21.5,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+916,41,Female,23.6,No,Yes,None,High Sugar,Diabetes,Low
+917,37,Male,20.1,No,Yes,Occasional,High Sugar,Diabetes,Low
+918,43,Male,26.6,Yes,Yes,Occasional,Balanced,Diabetes,Low
+919,22,Female,31.4,Yes,No,Occasional,Balanced,Hormonal Imbalance,Infertile
+920,29,Male,33.8,No,Yes,Regular,Low Carb,PCOS,Infertile
+921,22,Female,28.9,No,No,Occasional,Low Carb,PCOS,Normal
+922,44,Male,30.5,Yes,Yes,Regular,High Sugar,PCOS,Infertile
+923,28,Female,32.6,Yes,No,Regular,Low Carb,PCOS,Normal
+924,29,Female,22.9,No,No,Regular,Low Carb,Diabetes,Normal
+925,35,Male,22.8,No,Yes,Regular,High Sugar,Diabetes,Infertile
+926,24,Female,27.4,Yes,Yes,Occasional,High Sugar,Diabetes,Infertile
+927,32,Male,28.1,No,Yes,None,Balanced,Diabetes,Low
+928,24,Male,20.8,No,No,None,High Sugar,Thyroid,Normal
+929,44,Female,28.4,No,No,None,Low Carb,None,Normal
+930,39,Male,28.1,Yes,Yes,None,High Sugar,PCOS,Low
+931,34,Male,19.8,No,No,Occasional,Low Carb,PCOS,Low
+932,31,Male,26.1,No,No,Occasional,High Sugar,Diabetes,Normal
+933,28,Male,30.8,No,Yes,Regular,Balanced,Hormonal Imbalance,Normal
+934,39,Male,23.2,Yes,Yes,None,Balanced,None,Normal
+935,33,Male,19.3,No,Yes,Regular,Low Carb,None,Low
+936,34,Male,33.5,Yes,Yes,None,High Sugar,Hormonal Imbalance,Low
+937,37,Female,28.8,Yes,No,Regular,Low Carb,None,Low
+938,21,Male,23.7,Yes,No,Occasional,Low Carb,Diabetes,Infertile
+939,29,Female,27.7,No,No,Regular,Balanced,Diabetes,Normal
+940,39,Female,20.7,Yes,Yes,None,Low Carb,None,Normal
+941,32,Male,22.3,No,Yes,None,Low Carb,Hormonal Imbalance,Low
+942,38,Female,24.9,No,No,Occasional,Low Carb,None,Infertile
+943,21,Male,29.4,Yes,Yes,Regular,High Sugar,None,Normal
+944,36,Male,26.5,Yes,Yes,None,Balanced,Hormonal Imbalance,Infertile
+945,26,Female,30.4,Yes,No,Occasional,High Sugar,None,Normal
+946,22,Female,18.9,No,No,Regular,Balanced,PCOS,Infertile
+947,31,Male,29.8,Yes,No,Occasional,Low Carb,Hormonal Imbalance,Normal
+948,40,Male,33.7,Yes,Yes,Regular,Balanced,PCOS,Low
+949,20,Male,30.9,No,Yes,Regular,Low Carb,Diabetes,Normal
+950,31,Male,26.6,Yes,Yes,None,Low Carb,PCOS,Infertile
+951,30,Male,32.9,No,No,Regular,High Sugar,None,Low
+952,40,Male,29.0,Yes,No,None,Low Carb,None,Low
+953,24,Female,19.4,No,No,None,Balanced,Hormonal Imbalance,Normal
+954,29,Male,20.8,No,No,None,Low Carb,Diabetes,Low
+955,41,Female,20.0,No,Yes,Occasional,Balanced,PCOS,Normal
+956,45,Female,26.9,No,Yes,Regular,High Sugar,PCOS,Low
+957,35,Female,31.8,Yes,Yes,None,Balanced,PCOS,Low
+958,22,Female,25.3,No,Yes,Regular,Balanced,PCOS,Low
+959,44,Male,23.7,Yes,Yes,None,High Sugar,Thyroid,Infertile
+960,33,Male,32.9,No,No,Regular,High Sugar,Thyroid,Normal
+961,26,Male,34.9,No,No,None,Low Carb,Hormonal Imbalance,Low
+962,30,Male,27.4,Yes,No,Occasional,Balanced,PCOS,Normal
+963,27,Female,22.2,No,No,None,Low Carb,Thyroid,Low
+964,31,Female,28.3,No,Yes,Regular,Balanced,Thyroid,Infertile
+965,36,Male,29.3,Yes,Yes,Occasional,High Sugar,Diabetes,Infertile
+966,40,Female,34.3,No,No,Occasional,Low Carb,None,Infertile
+967,23,Female,18.6,Yes,Yes,None,Balanced,Thyroid,Low
+968,36,Male,19.7,Yes,No,None,Balanced,None,Normal
+969,27,Female,19.6,Yes,No,None,Low Carb,None,Low
+970,30,Male,31.8,No,Yes,None,Low Carb,PCOS,Low
+971,40,Female,24.7,Yes,No,None,Balanced,Thyroid,Low
+972,33,Female,33.4,Yes,Yes,Regular,Low Carb,None,Infertile
+973,27,Female,32.7,Yes,No,Regular,Low Carb,None,Normal
+974,23,Male,31.8,Yes,Yes,Occasional,Low Carb,Thyroid,Normal
+975,24,Female,18.7,Yes,Yes,None,Low Carb,PCOS,Normal
+976,29,Male,29.3,Yes,No,Regular,High Sugar,Hormonal Imbalance,Normal
+977,36,Female,27.3,No,No,Occasional,High Sugar,Diabetes,Normal
+978,42,Male,19.6,No,Yes,None,Balanced,PCOS,Infertile
+979,29,Male,33.6,Yes,No,Regular,Balanced,Thyroid,Normal
+980,33,Male,19.7,No,Yes,Occasional,High Sugar,PCOS,Normal
+981,20,Male,19.0,Yes,Yes,Regular,Low Carb,Thyroid,Low
+982,23,Male,21.8,No,No,None,High Sugar,Hormonal Imbalance,Low
+983,42,Male,31.9,No,Yes,Regular,Low Carb,Diabetes,Infertile
+984,34,Female,19.2,No,Yes,Regular,Low Carb,Hormonal Imbalance,Low
+985,20,Male,26.4,Yes,No,Occasional,Low Carb,Thyroid,Normal
+986,22,Male,20.7,Yes,No,Occasional,Balanced,Thyroid,Infertile
+987,45,Female,32.3,Yes,Yes,None,Low Carb,PCOS,Low
+988,37,Female,20.6,No,Yes,None,Balanced,Diabetes,Normal
+989,24,Male,27.7,Yes,No,Regular,Low Carb,None,Low
+990,42,Male,33.3,Yes,Yes,Regular,High Sugar,Thyroid,Low
+991,23,Female,20.3,Yes,Yes,Occasional,High Sugar,None,Infertile
+992,36,Female,31.3,No,No,Occasional,High Sugar,Diabetes,Low
+993,22,Male,24.3,No,Yes,None,Balanced,Hormonal Imbalance,Low
+994,38,Male,29.9,Yes,Yes,Occasional,High Sugar,PCOS,Normal
+995,29,Female,29.0,Yes,No,Regular,High Sugar,Thyroid,Infertile
+996,43,Female,33.9,Yes,Yes,Regular,Low Carb,Diabetes,Infertile
+997,23,Male,30.8,Yes,Yes,Occasional,Balanced,Thyroid,Low
+998,33,Female,21.8,No,Yes,None,Balanced,PCOS,Low
+999,21,Male,28.9,Yes,No,None,Low Carb,None,Infertile
+1000,20,Female,32.0,Yes,No,Occasional,Balanced,PCOS,Infertile
